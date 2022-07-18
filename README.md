@@ -1,4 +1,27 @@
 # TelegraSpyBot
+
+(Follow below for English)
+Это мой компактный, но эффективный бот-шпион, просто чтобы испытать свои навыки
+
+Прежде всего, вам необходимо получить свой Telegram API api_hash и api_id через 
+> https://my.telegram.org/auth?to=apps
+
+Также вам необходимо создать своего бота через BotFather и получить свой токен
+
+Затем установите зависимости
+> pip install -r requirements.txt
+
+Вам нужно ввести имя пользователя(юзернэйм), за которым вы хотите мониторить, я указал его в скрипте здесь в одинарных кавычках ниже
+> account = await client.get_entity('') # set username here without '@'
+
+Запустите скрипт
+
+Запустите своего бота в Telegram
+
+Примечание: имя пользователя(юзернэйм) должно быть в ваших контактах
+
+PS: иногда сервер telegram может забанить вас из-за слишком большого количества запросов, что я пытаюсь сейчас выяснить, как это решить.
+
 This is my small but efficient spy bot, just to try my skills
 
 First of all you need to obtain your Telegram API api_hash and api_id through 
