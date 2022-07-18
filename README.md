@@ -23,6 +23,8 @@
 
 PS: иногда сервер telegram может забанить вас из-за слишком большого количества запросов, что я пытаюсь сейчас выяснить, как это решить.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 This is my small but efficient spy bot, just to try my skills
 
 First of all you need to obtain your Telegram API api_hash and api_id through 
