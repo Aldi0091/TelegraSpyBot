@@ -9,7 +9,8 @@ Also you need to create your bot through BotFather and obtain your token
 Then run the requirements
 > pip install -r requirements.txt
 
-You need to put the username that you want to spy after, I have indicated it there in the scipt
+You need to put the username that you want to spy after, I have indicated it there in the scipt here in single quote below
+> account = await client.get_entity('') # set username here without '@'
 
 Run the script
 
