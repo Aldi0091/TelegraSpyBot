@@ -5,6 +5,7 @@ First of all you need to obtain your Telegram API api_hash and api_id through ht
 Also you need to create your bot through BotFather and obtain your token
 Then run the requirements
 > pip install -r requirements.txt
+
 You need to put the username that you want to spy after, I have indicated it there in the scipt
 Run the script
 Run your bot in the Telegram
