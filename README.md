@@ -1,4 +1,4 @@
-# TelegraSpyBot
+# TelegramSpyBot
 
 (Follow below for English)
 
